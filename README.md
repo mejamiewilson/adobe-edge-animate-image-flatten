@@ -9,10 +9,10 @@ From test.js:
     var flatten = require('adobe-edge-animate-image-flatten');
 
     //read file
-    fs.createReadStream(path.resolve(__dirname, 'sample/publish/web/sample-project-file_edge.js'));
+    fs.createReadStream(path.resolve(__dirname, 'sample/publish/web/sample-project-file_edge.js'))
 
     //flatten task
-    .pipe(flatten({imageDirectory: path.resolve(__dirname, 'sample/publish/web/images')}));
+    .pipe(flatten({imageDirectory: path.resolve(__dirname, 'sample/publish/web/images')}))
 
 To do: 
 
