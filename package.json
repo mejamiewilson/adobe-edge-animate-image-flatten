@@ -1,7 +1,7 @@
 {
-  "name": "adobe-edge-flatten",
+  "name": "adobe-edge-animate-image-flatten",
   "version": "0.1.0",
-  "description": "Base64 encodes external SVG files and adds them to the edge file.",
+  "description": "Base64 encodes external image files and adds them to the edge file.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
