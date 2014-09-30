@@ -1,0 +1,17 @@
+{
+  "name": "adobe-edge-flatten",
+  "version": "0.1.0",
+  "description": "Base64 encodes external SVG files and adds them to the edge file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adobe",
+    "edge",
+    "animate",
+    "svg"
+  ],
+  "author": "Jamie Wilson",
+  "license": "ISC"
+}
