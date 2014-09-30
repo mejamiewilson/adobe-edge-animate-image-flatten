@@ -4,7 +4,7 @@
   "description": "Base64 encodes external SVG files and adds them to the edge file.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "keywords": [
     "adobe",
@@ -13,5 +13,9 @@
     "svg"
   ],
   "author": "Jamie Wilson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.0.1",
+    "through2": "^0.6.2"
+  }
 }
