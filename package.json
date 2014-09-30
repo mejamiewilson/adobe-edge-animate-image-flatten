@@ -1,6 +1,6 @@
 {
   "name": "adobe-edge-animate-image-flatten",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Base64 encodes external image files and adds them to the edge file.",
   "main": "index.js",
   "scripts": {
